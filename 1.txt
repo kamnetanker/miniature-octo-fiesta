@@ -1,1 +1,2 @@
 "test data for first committing" 
+"\nNew data to 1.txt\n" 
