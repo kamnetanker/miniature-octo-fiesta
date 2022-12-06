@@ -22,9 +22,9 @@ jobs:
         dotnet-version: 6.0.x 
         
     - name: Restore dependencies
-      run: dotnet restore ./github_workflow
+      run: dotnet restore  ./github_workflow
     
     - name: Build
       run: dotnet build --no-restore ./github_workflow
     - name: Test
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test --no-build --verbosity normal  ./github_workflow
