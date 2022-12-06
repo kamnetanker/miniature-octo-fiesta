@@ -19,15 +19,12 @@ jobs:
     - name: Setup .NET
       uses: actions/setup-dotnet@v3
       with:
-        dotnet-version: 6.0.x
-    - name: Show directory
-      run: tree -n 4 ./
-    - name: Cd to work directory
-      run: cd ./github_workflow
+        dotnet-version: 6.0.x 
+        
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore ./github_workflow
     
     - name: Build
-      run: dotnet build --no-restore
+      run: dotnet build --no-restore ./github_workflow
     - name: Test
       run: dotnet test --no-build --verbosity normal
