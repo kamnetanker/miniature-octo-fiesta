@@ -1788,6 +1788,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "formula_proj/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/formula_proj.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/formula_proj.dll": {}
+        }
       }
     }
   },
@@ -6325,6 +6335,11 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "formula_proj/1.0.0": {
+      "type": "project",
+      "path": "../formula_proj/formula_proj.csproj",
+      "msbuildProject": "../formula_proj/formula_proj.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6332,7 +6347,8 @@
       "MSTest.TestAdapter >= 2.2.8",
       "MSTest.TestFramework >= 2.2.8",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
-      "coverlet.collector >= 3.1.2"
+      "coverlet.collector >= 3.1.2",
+      "formula_proj >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6367,7 +6383,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\kamnetanker\\Magistry\\3sem\\ProgrammArchitechture\\Labs\\miniature-octo-fiesta\\formula\\formula_proj\\formula_proj.csproj": {
+              "projectPath": "D:\\kamnetanker\\Magistry\\3sem\\ProgrammArchitechture\\Labs\\miniature-octo-fiesta\\formula\\formula_proj\\formula_proj.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

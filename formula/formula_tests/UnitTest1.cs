@@ -9,11 +9,12 @@ public class FormulaTest
     [TestMethod]
     public void Test1ExpoX()
     {
-		double expoX = formula_proj.ExpoX(0);
+		double expoX = App.ExpoX(0);
 		Assert.AreEqual(expoX, 1);
     }
+	[TestMethod]
 	public void Test2ExpoX(){
-		double expoX = formula_proj.ExpoX(0);
-		Assert.AreEqual(expoX, 1);
+		double expoX = App.ExpoX(1);
+		Assert.AreEqual(expoX, Math.Exp(-2));
 	}
 }

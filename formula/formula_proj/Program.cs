@@ -1,6 +1,6 @@
 ﻿using System; 
 namespace formula_proj{
-	public class formula_proj{
+	public class App{
 		public static void Main(string[] argv){
 			Console.WriteLine("Hello, World!");
 			Console.WriteLine("Function Result: "+F(0.23d).ToString());
