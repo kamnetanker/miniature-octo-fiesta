@@ -37,4 +37,35 @@ public class FormulaTest
 		double expoX = App.ExpoX(-0.5d);
 		Assert.AreEqual(expoX, Math.Exp(1));
 	}
+	[TestMethod]
+    public void Test1cosX()
+    {
+		double cosX = App.cosX(0);
+		Assert.AreEqual(cosX, 1);
+    }
+	[TestMethod]
+	public void Test2cosX(){
+		double cosX = App.cosX(1);
+		Assert.AreEqual(cosX, Math.Cos(1));
+	}
+	[TestMethod]
+	public void Test3cosX(){
+		double cosX = App.cosX(double.MaxValue);
+		Assert.AreEqual(cosX, Math.Cos(double.MaxValue));
+	}
+	[TestMethod]
+	public void Test4cosX(){
+		double cosX = App.cosX(-1);
+		Assert.AreEqual(cosX, Math.Cos(-1));
+	}
+	[TestMethod]
+	public void Test5cosX(){
+		double cosX = App.cosX(0.5d);
+		Assert.AreEqual(cosX, Math.Cos(0.5d));
+	}
+	[TestMethod]
+	public void Test6cosX(){
+		double cosX = App.cosX(-0.5d);
+		Assert.AreEqual(cosX, Math.Cos(-0.5d));
+	}
 }
