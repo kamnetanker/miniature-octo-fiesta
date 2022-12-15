@@ -68,4 +68,35 @@ public class FormulaTest
 		double cosX = App.cosX(-0.5d);
 		Assert.AreEqual(cosX, Math.Cos(-0.5d));
 	}
+	[TestMethod]
+    public void Test1SqX()
+    {
+		double SqX = App.SqX(0);
+		Assert.AreEqual(SqX, 0);
+    }
+	[TestMethod]
+	public void Test2SqX(){
+		double SqX = App.SqX(1);
+		Assert.AreEqual(SqX, Math.Cos(1));
+	}
+	[TestMethod]
+	public void Test3SqX(){
+		double SqX = App.SqX(double.MaxValue);
+		Assert.AreEqual(SqX, Math.Pow(double.MaxValue, 2));
+	}
+	[TestMethod]
+	public void Test4SqX(){
+		double SqX = App.SqX(-1);
+		Assert.AreEqual(SqX, 1);
+	}
+	[TestMethod]
+	public void Test5SqX(){
+		double SqX = App.SqX(0.5d);
+		Assert.AreEqual(SqX, 0.25d);
+	}
+	[TestMethod]
+	public void Test6SqX(){
+		double SqX = App.SqX(-0.5d);
+		Assert.AreEqual(SqX, 0.25d);
+	}
 }
