@@ -28,4 +28,4 @@ jobs:
       run: dotnet build --no-restore ./formula/formula_proj/formula_proj.csproj
     
     - name: Test
-      run: dotnet test --no-build --verbosity normal  ./miniature-octo-fiesta/formula/formula.sln
+      run: dotnet test --no-build --verbosity normal  ./formula/formula.sln
