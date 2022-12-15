@@ -130,4 +130,9 @@ public class FormulaTest
 		double F = App.F(-0.5d);
 		Assert.AreEqual(F, 2.6355167309591354d);
 	}
+	[TestMethod]
+	public void TestMain(){
+		int res = App.Main(new string[] {"formula.exe"});
+		Assert.AreEqual(res, 0);
+	}
 }
