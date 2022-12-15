@@ -99,4 +99,35 @@ public class FormulaTest
 		double SqX = App.SqX(-0.5d);
 		Assert.AreEqual(SqX, 0.25d);
 	}
+	[TestMethod]
+    public void Test1F()
+    {
+		double F = App.F(0);
+		Assert.AreEqual(F, 1);
+    }
+	[TestMethod]
+	public void Test2F(){
+		double F = App.F(1);
+		Assert.AreEqual(F, 1.0731219655980597d);
+	}
+	[TestMethod]
+	public void Test3F(){
+		double F = App.F(double.MaxValue);
+		Assert.AreEqual(F, double.MaxValue*double.MaxValue);
+	}
+	[TestMethod]
+	public void Test4F(){
+		double F = App.F(-1);
+		Assert.AreEqual(F, 4.992324048441272d);
+	}
+	[TestMethod]
+	public void Test5F(){
+		double F = App.F(0.5d);
+		Assert.AreEqual(F, 0.572844582450033d);
+	}
+	[TestMethod]
+	public void Test6F(){
+		double F = App.F(-0.5d);
+		Assert.AreEqual(F, 2.6355167309591354d);
+	}
 }

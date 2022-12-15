@@ -3,7 +3,12 @@ namespace formula_proj{
 	public class App{
 		public static void Main(string[] argv){
 			Console.WriteLine("Hello, World!");
-			Console.WriteLine("Function Result: "+F(0.23d).ToString());
+			Console.WriteLine("F(0) = "+F(0d).ToString());
+			Console.WriteLine("F(1) = "+F(1d).ToString());
+			Console.WriteLine("F(-1) = "+F(-1d).ToString());
+			Console.WriteLine("F(0.5) = "+F(0.5d).ToString());
+			Console.WriteLine("F(-0.5) = "+F(-0.5d).ToString());
+			Console.WriteLine("F(double.MaxValue) = "+F(double.MaxValue).ToString());
 		}
 	
 		public static double F(double x){
