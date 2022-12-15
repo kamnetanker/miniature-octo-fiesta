@@ -22,9 +22,10 @@ jobs:
         dotnet-version: 6.0.x 
         
     - name: Restore dependencies
-      run: dotnet restore  ./formula/formula_proj/formula_proj.csproj
+      run: dotnet restore  ./miniature-octo-fiesta/formula/formula_proj/formula_proj.csproj
     
     - name: Build
-      run: dotnet build --no-restore ./furmula/formula_proj/formula_proj.csproj
+      run: dotnet build --no-restore ./miniature-octo-fiesta/furmula/formula_proj/formula_proj.csproj
+    
     - name: Test
-      run: dotnet test --no-build --verbosity normal  ./formula/formula.sln
+      run: dotnet test --no-build --verbosity normal  ./miniature-octo-fiesta/formula/formula.sln
