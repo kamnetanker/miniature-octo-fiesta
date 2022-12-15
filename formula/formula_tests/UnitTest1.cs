@@ -77,7 +77,7 @@ public class FormulaTest
 	[TestMethod]
 	public void Test2SqX(){
 		double SqX = App.SqX(1);
-		Assert.AreEqual(SqX, Math.Cos(1));
+		Assert.AreEqual(SqX, 1);
 	}
 	[TestMethod]
 	public void Test3SqX(){
