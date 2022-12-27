@@ -19,7 +19,7 @@ pipeline {
         }
 		stage('Publish') {
             steps {
-                publishCoverage adapters: [cobertura(path: './formula/formula_tests/lastlog.cobertura.xml')], checksName: '', sourceFileResolver: sourceFiles('NEVER_STORE')
+                cobertura autoUpdateHealth: false, autoUpdateStability: false, coberturaReportFile: '**/lastlog.cobertura.xml', conditionalCoverageTargets: '70, 0, 0', failUnhealthy: false, failUnstable: false, lineCoverageTargets: '80, 0, 0', maxNumberOfBuilds: 0, methodCoverageTargets: '80, 0, 0', onlyStable: false, sourceEncoding: 'ASCII', zoomCoverageChart: false
             }
         }
 	}
