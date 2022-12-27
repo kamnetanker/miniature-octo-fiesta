@@ -19,7 +19,7 @@ pipeline {
         }
 		stage('Publish') {
             steps {
-                publishCoverage adapters: [cobertura('./formula/formula_tests/lastlog.cobertura.xml')], checksName: '', sourceFileResolver: sourceFiles('NEVER_STORE')
+                publishCoverage adapters: [cobertura(path: './formula/formula_tests/lastlog.cobertura.xml')], checksName: '', sourceFileResolver: sourceFiles('NEVER_STORE')
             }
         }
 	}
