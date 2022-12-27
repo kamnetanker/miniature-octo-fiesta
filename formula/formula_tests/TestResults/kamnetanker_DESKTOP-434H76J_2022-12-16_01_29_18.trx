@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="8eb83245-31b0-4e10-9e58-4cfc36435af0" name="kamnetanker@DESKTOP-434H76J 2022-12-16 01:29:18" runUser="DESKTOP-434H76J\kamnetanker" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2022-12-16T01:29:18.8007890+03:00" queuing="2022-12-16T01:29:18.8007894+03:00" start="2022-12-16T01:29:17.8611622+03:00" finish="2022-12-16T01:29:18.8580409+03:00" />
+  <TestSettings name="default" id="971456c0-474a-42c3-9501-b530dfc9592d">
+    <Deployment runDeploymentRoot="kamnetanker_DESKTOP-434H76J_2022-12-16_01_29_18" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="cdc951e2-1668-4084-8002-10e236adf7f1" testId="df71c9d6-9d01-459a-a83c-dd100469398a" testName="Test5ExpoX" computerName="DESKTOP-434H76J" duration="00:00:00.0000945" startTime="2022-12-16T01:29:18.6515149+03:00" endTime="2022-12-16T01:29:18.6516785+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cdc951e2-1668-4084-8002-10e236adf7f1" />
+    <UnitTestResult executionId="88d520b7-fe06-40c9-9987-2f6f6690c79b" testId="84935267-caab-4853-a3e7-b121f287d5a0" testName="Test1F" computerName="DESKTOP-434H76J" duration="00:00:00.0001784" startTime="2022-12-16T01:29:18.7097059+03:00" endTime="2022-12-16T01:29:18.7099682+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="88d520b7-fe06-40c9-9987-2f6f6690c79b" />
+    <UnitTestResult executionId="766d9638-89a5-4e20-89f5-09a31907c9f1" testId="042c67e5-066c-49d1-b46a-6e63d341ef97" testName="Test5F" computerName="DESKTOP-434H76J" duration="00:00:00.0000826" startTime="2022-12-16T01:29:18.7105772+03:00" endTime="2022-12-16T01:29:18.7107229+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="766d9638-89a5-4e20-89f5-09a31907c9f1" />
+    <UnitTestResult executionId="e9998a9a-29a7-4d5a-a76f-e8f514886974" testId="af07a744-aa12-4252-b564-629297a9a660" testName="Test1SqX" computerName="DESKTOP-434H76J" duration="00:00:00.0001431" startTime="2022-12-16T01:29:18.7064254+03:00" endTime="2022-12-16T01:29:18.7066341+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e9998a9a-29a7-4d5a-a76f-e8f514886974" />
+    <UnitTestResult executionId="dde8fcd7-4a10-4909-bc53-3c426e40c4ac" testId="dcaa0548-140c-4fa3-9767-27451c987337" testName="Test1ExpoX" computerName="DESKTOP-434H76J" duration="00:00:00.0069372" startTime="2022-12-16T01:29:18.6121187+03:00" endTime="2022-12-16T01:29:18.6401778+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dde8fcd7-4a10-4909-bc53-3c426e40c4ac" />
+    <UnitTestResult executionId="1ae02ead-e940-46b6-8657-c1019462d720" testId="1c4145b7-aa03-4735-aec8-fd242ba0df0e" testName="Test5cosX" computerName="DESKTOP-434H76J" duration="00:00:00.0001247" startTime="2022-12-16T01:29:18.7059365+03:00" endTime="2022-12-16T01:29:18.7061718+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1ae02ead-e940-46b6-8657-c1019462d720" />
+    <UnitTestResult executionId="4c2ff372-07e8-4c65-883c-566484ab2487" testId="db5ffc48-308e-4e25-87bd-39302e372a4c" testName="Test1cosX" computerName="DESKTOP-434H76J" duration="00:00:00.0001578" startTime="2022-12-16T01:29:18.6518922+03:00" endTime="2022-12-16T01:29:18.6521137+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4c2ff372-07e8-4c65-883c-566484ab2487" />
+    <UnitTestResult executionId="aa817787-8e2e-4879-b380-6d85fcd57b09" testId="1ae42e04-f15f-4d03-a588-72c5e0b35fd8" testName="Test2SqX" computerName="DESKTOP-434H76J" duration="00:00:00.0000765" startTime="2022-12-16T01:29:18.7066785+03:00" endTime="2022-12-16T01:29:18.7068224+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aa817787-8e2e-4879-b380-6d85fcd57b09" />
+    <UnitTestResult executionId="e83e19db-d54b-416f-985b-408500dd33ba" testId="4b317030-ad21-447b-854c-46147c89d10f" testName="Test3F" computerName="DESKTOP-434H76J" duration="00:00:00.0000771" startTime="2022-12-16T01:29:18.7102139+03:00" endTime="2022-12-16T01:29:18.7103655+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e83e19db-d54b-416f-985b-408500dd33ba" />
+    <UnitTestResult executionId="a25ece71-5e51-4f39-89d2-32aea26cc4c9" testId="bc2bac5e-9699-488d-9b40-0b940e4d03d5" testName="Test4cosX" computerName="DESKTOP-434H76J" duration="00:00:00.0001176" startTime="2022-12-16T01:29:18.7056114+03:00" endTime="2022-12-16T01:29:18.7058707+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a25ece71-5e51-4f39-89d2-32aea26cc4c9" />
+    <UnitTestResult executionId="90d81232-28cc-4a63-87fb-13911d8c67ce" testId="af723800-5f17-4ed3-b036-28c8bc2520fe" testName="Test2cosX" computerName="DESKTOP-434H76J" duration="00:00:00.0000910" startTime="2022-12-16T01:29:18.6521570+03:00" endTime="2022-12-16T01:29:18.6523132+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="90d81232-28cc-4a63-87fb-13911d8c67ce" />
+    <UnitTestResult executionId="b7c6d284-3880-4e77-af6a-24b828c1705c" testId="e4f35113-d088-495b-831f-3da7aa1389c0" testName="Test2F" computerName="DESKTOP-434H76J" duration="00:00:00.0000812" startTime="2022-12-16T01:29:18.7100088+03:00" endTime="2022-12-16T01:29:18.7101678+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b7c6d284-3880-4e77-af6a-24b828c1705c" />
+    <UnitTestResult executionId="5bf7a078-dc43-45f6-9836-111642becf64" testId="d2e43894-e279-43c3-b0db-0b0790338cf7" testName="Test2ExpoX" computerName="DESKTOP-434H76J" duration="00:00:00.0001316" startTime="2022-12-16T01:29:18.6507940+03:00" endTime="2022-12-16T01:29:18.6510770+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5bf7a078-dc43-45f6-9836-111642becf64" />
+    <UnitTestResult executionId="feb498d7-8f6e-4e29-bf5b-71cd58a8c69d" testId="c76f3337-1fc8-48a2-945a-c28370f52a39" testName="Test6ExpoX" computerName="DESKTOP-434H76J" duration="00:00:00.0000809" startTime="2022-12-16T01:29:18.6517151+03:00" endTime="2022-12-16T01:29:18.6518646+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="feb498d7-8f6e-4e29-bf5b-71cd58a8c69d" />
+    <UnitTestResult executionId="0798d439-0001-4451-b259-8958a7ae9a6c" testId="35772916-10ea-44c0-b20c-908c1aa908a1" testName="Test3cosX" computerName="DESKTOP-434H76J" duration="00:00:00.0000786" startTime="2022-12-16T01:29:18.6523411+03:00" endTime="2022-12-16T01:29:18.6524868+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0798d439-0001-4451-b259-8958a7ae9a6c" />
+    <UnitTestResult executionId="43e10aab-a4b2-414f-b8a3-506a2f99a82f" testId="e1c90924-ca90-4e78-8cc8-d445fee572cc" testName="Test4ExpoX" computerName="DESKTOP-434H76J" duration="00:00:00.0000875" startTime="2022-12-16T01:29:18.6513339+03:00" endTime="2022-12-16T01:29:18.6514870+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="43e10aab-a4b2-414f-b8a3-506a2f99a82f" />
+    <UnitTestResult executionId="bdb3a96e-22d5-4c7a-9293-571da07d8353" testId="acf039b9-6306-4c95-a7ad-083bd3aac761" testName="Test4F" computerName="DESKTOP-434H76J" duration="00:00:00.0000732" startTime="2022-12-16T01:29:18.7103989+03:00" endTime="2022-12-16T01:29:18.7105342+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bdb3a96e-22d5-4c7a-9293-571da07d8353" />
+    <UnitTestResult executionId="1e979e9c-e3b4-4fc4-83c4-67e4fdedb6f2" testId="eebd2798-8bce-4863-91c1-69a58102c906" testName="Test6cosX" computerName="DESKTOP-434H76J" duration="00:00:00.0000923" startTime="2022-12-16T01:29:18.7062266+03:00" endTime="2022-12-16T01:29:18.7063951+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1e979e9c-e3b4-4fc4-83c4-67e4fdedb6f2" />
+    <UnitTestResult executionId="2afff0bf-cc53-4247-b48e-83bb369daf10" testId="fa762eba-cd24-4739-b1b4-2c4ae806aa3d" testName="Test6F" computerName="DESKTOP-434H76J" duration="00:00:00.0000708" startTime="2022-12-16T01:29:18.7107557+03:00" endTime="2022-12-16T01:29:18.7108940+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2afff0bf-cc53-4247-b48e-83bb369daf10" />
+    <UnitTestResult executionId="6e0175c2-7965-4c81-b873-e845c0b0508d" testId="2af23901-83e5-4c55-8938-7595a992b250" testName="Test6SqX" computerName="DESKTOP-434H76J" duration="00:00:00.0000694" startTime="2022-12-16T01:29:18.7074018+03:00" endTime="2022-12-16T01:29:18.7075382+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6e0175c2-7965-4c81-b873-e845c0b0508d" />
+    <UnitTestResult executionId="eaf65d0c-289d-4205-abae-03349247c180" testId="88d74c16-a86a-4c80-b962-671c45fa95fe" testName="Test4SqX" computerName="DESKTOP-434H76J" duration="00:00:00.0000862" startTime="2022-12-16T01:29:18.7070487+03:00" endTime="2022-12-16T01:29:18.7072127+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eaf65d0c-289d-4205-abae-03349247c180" />
+    <UnitTestResult executionId="7568816e-73cd-460f-b065-478d27a498fd" testId="32ff846b-7027-4ab2-906f-005cbb66646c" testName="Test3ExpoX" computerName="DESKTOP-434H76J" duration="00:00:00.0000911" startTime="2022-12-16T01:29:18.6511289+03:00" endTime="2022-12-16T01:29:18.6513047+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7568816e-73cd-460f-b065-478d27a498fd" />
+    <UnitTestResult executionId="18aaee40-61cd-497e-a03f-478e57bbb613" testId="600077d8-287f-43f8-bab3-9c39a369d3bf" testName="Test3SqX" computerName="DESKTOP-434H76J" duration="00:00:00.0001061" startTime="2022-12-16T01:29:18.7068506+03:00" endTime="2022-12-16T01:29:18.7070206+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="18aaee40-61cd-497e-a03f-478e57bbb613" />
+    <UnitTestResult executionId="e4791608-77d9-4956-af8c-857578fe78e6" testId="8c912d5d-8001-4858-9447-79e94140d4a6" testName="TestMain" computerName="DESKTOP-434H76J" duration="00:00:00.0013532" startTime="2022-12-16T01:29:18.7109265+03:00" endTime="2022-12-16T01:29:18.7125027+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e4791608-77d9-4956-af8c-857578fe78e6">
+      <Output>
+        <StdOut>Hello, World!&#xD;
+F(0) = 1&#xD;
+F(1) = 1,0731219655980597&#xD;
+F(-1) = 4,992324048441272&#xD;
+F(0.5) = 0,572844582450033&#xD;
+F(-0.5) = 2,6355167309591354&#xD;
+F(double.MaxValue) = ∞</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="071fec16-91a5-4ecc-8203-28c740349c65" testId="0c5d058e-c0d8-4c3d-a212-4a1a090f7e8b" testName="Test5SqX" computerName="DESKTOP-434H76J" duration="00:00:00.0000716" startTime="2022-12-16T01:29:18.7072401+03:00" endTime="2022-12-16T01:29:18.7073750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="071fec16-91a5-4ecc-8203-28c740349c65" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Test5cosX" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="1c4145b7-aa03-4735-aec8-fd242ba0df0e">
+      <Execution id="1ae02ead-e940-46b6-8657-c1019462d720" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test5cosX" />
+    </UnitTest>
+    <UnitTest name="Test6cosX" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="eebd2798-8bce-4863-91c1-69a58102c906">
+      <Execution id="1e979e9c-e3b4-4fc4-83c4-67e4fdedb6f2" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test6cosX" />
+    </UnitTest>
+    <UnitTest name="Test4cosX" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="bc2bac5e-9699-488d-9b40-0b940e4d03d5">
+      <Execution id="a25ece71-5e51-4f39-89d2-32aea26cc4c9" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test4cosX" />
+    </UnitTest>
+    <UnitTest name="Test2SqX" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="1ae42e04-f15f-4d03-a588-72c5e0b35fd8">
+      <Execution id="aa817787-8e2e-4879-b380-6d85fcd57b09" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test2SqX" />
+    </UnitTest>
+    <UnitTest name="Test2ExpoX" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="d2e43894-e279-43c3-b0db-0b0790338cf7">
+      <Execution id="5bf7a078-dc43-45f6-9836-111642becf64" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test2ExpoX" />
+    </UnitTest>
+    <UnitTest name="Test4SqX" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="88d74c16-a86a-4c80-b962-671c45fa95fe">
+      <Execution id="eaf65d0c-289d-4205-abae-03349247c180" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test4SqX" />
+    </UnitTest>
+    <UnitTest name="Test5SqX" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="0c5d058e-c0d8-4c3d-a212-4a1a090f7e8b">
+      <Execution id="071fec16-91a5-4ecc-8203-28c740349c65" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test5SqX" />
+    </UnitTest>
+    <UnitTest name="Test3F" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="4b317030-ad21-447b-854c-46147c89d10f">
+      <Execution id="e83e19db-d54b-416f-985b-408500dd33ba" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test3F" />
+    </UnitTest>
+    <UnitTest name="Test1ExpoX" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="dcaa0548-140c-4fa3-9767-27451c987337">
+      <Execution id="dde8fcd7-4a10-4909-bc53-3c426e40c4ac" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test1ExpoX" />
+    </UnitTest>
+    <UnitTest name="Test3ExpoX" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="32ff846b-7027-4ab2-906f-005cbb66646c">
+      <Execution id="7568816e-73cd-460f-b065-478d27a498fd" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test3ExpoX" />
+    </UnitTest>
+    <UnitTest name="Test6SqX" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="2af23901-83e5-4c55-8938-7595a992b250">
+      <Execution id="6e0175c2-7965-4c81-b873-e845c0b0508d" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test6SqX" />
+    </UnitTest>
+    <UnitTest name="Test5F" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="042c67e5-066c-49d1-b46a-6e63d341ef97">
+      <Execution id="766d9638-89a5-4e20-89f5-09a31907c9f1" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test5F" />
+    </UnitTest>
+    <UnitTest name="Test1SqX" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="af07a744-aa12-4252-b564-629297a9a660">
+      <Execution id="e9998a9a-29a7-4d5a-a76f-e8f514886974" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test1SqX" />
+    </UnitTest>
+    <UnitTest name="Test1cosX" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="db5ffc48-308e-4e25-87bd-39302e372a4c">
+      <Execution id="4c2ff372-07e8-4c65-883c-566484ab2487" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test1cosX" />
+    </UnitTest>
+    <UnitTest name="Test1F" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="84935267-caab-4853-a3e7-b121f287d5a0">
+      <Execution id="88d520b7-fe06-40c9-9987-2f6f6690c79b" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test1F" />
+    </UnitTest>
+    <UnitTest name="Test6ExpoX" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="c76f3337-1fc8-48a2-945a-c28370f52a39">
+      <Execution id="feb498d7-8f6e-4e29-bf5b-71cd58a8c69d" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test6ExpoX" />
+    </UnitTest>
+    <UnitTest name="Test3cosX" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="35772916-10ea-44c0-b20c-908c1aa908a1">
+      <Execution id="0798d439-0001-4451-b259-8958a7ae9a6c" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test3cosX" />
+    </UnitTest>
+    <UnitTest name="TestMain" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="8c912d5d-8001-4858-9447-79e94140d4a6">
+      <Execution id="e4791608-77d9-4956-af8c-857578fe78e6" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="TestMain" />
+    </UnitTest>
+    <UnitTest name="Test4F" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="acf039b9-6306-4c95-a7ad-083bd3aac761">
+      <Execution id="bdb3a96e-22d5-4c7a-9293-571da07d8353" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test4F" />
+    </UnitTest>
+    <UnitTest name="Test6F" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="fa762eba-cd24-4739-b1b4-2c4ae806aa3d">
+      <Execution id="2afff0bf-cc53-4247-b48e-83bb369daf10" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test6F" />
+    </UnitTest>
+    <UnitTest name="Test4ExpoX" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="e1c90924-ca90-4e78-8cc8-d445fee572cc">
+      <Execution id="43e10aab-a4b2-414f-b8a3-506a2f99a82f" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test4ExpoX" />
+    </UnitTest>
+    <UnitTest name="Test2cosX" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="af723800-5f17-4ed3-b036-28c8bc2520fe">
+      <Execution id="90d81232-28cc-4a63-87fb-13911d8c67ce" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test2cosX" />
+    </UnitTest>
+    <UnitTest name="Test2F" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="e4f35113-d088-495b-831f-3da7aa1389c0">
+      <Execution id="b7c6d284-3880-4e77-af6a-24b828c1705c" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test2F" />
+    </UnitTest>
+    <UnitTest name="Test3SqX" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="600077d8-287f-43f8-bab3-9c39a369d3bf">
+      <Execution id="18aaee40-61cd-497e-a03f-478e57bbb613" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test3SqX" />
+    </UnitTest>
+    <UnitTest name="Test5ExpoX" storage="d:\kamnetanker\magistry\3sem\programmarchitechture\labs\miniature-octo-fiesta\formula\formula_tests\bin\debug\net6.0\formula_tests.dll" id="df71c9d6-9d01-459a-a83c-dd100469398a">
+      <Execution id="cdc951e2-1668-4084-8002-10e236adf7f1" />
+      <TestMethod codeBase="D:\kamnetanker\Magistry\3sem\ProgrammArchitechture\Labs\miniature-octo-fiesta\formula\formula_tests\bin\Debug\net6.0\formula_tests.dll" adapterTypeName="executor://mstestadapter/v2" className="formula_tests.FormulaTest" name="Test5ExpoX" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="df71c9d6-9d01-459a-a83c-dd100469398a" executionId="cdc951e2-1668-4084-8002-10e236adf7f1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="84935267-caab-4853-a3e7-b121f287d5a0" executionId="88d520b7-fe06-40c9-9987-2f6f6690c79b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="042c67e5-066c-49d1-b46a-6e63d341ef97" executionId="766d9638-89a5-4e20-89f5-09a31907c9f1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="af07a744-aa12-4252-b564-629297a9a660" executionId="e9998a9a-29a7-4d5a-a76f-e8f514886974" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dcaa0548-140c-4fa3-9767-27451c987337" executionId="dde8fcd7-4a10-4909-bc53-3c426e40c4ac" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1c4145b7-aa03-4735-aec8-fd242ba0df0e" executionId="1ae02ead-e940-46b6-8657-c1019462d720" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="db5ffc48-308e-4e25-87bd-39302e372a4c" executionId="4c2ff372-07e8-4c65-883c-566484ab2487" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1ae42e04-f15f-4d03-a588-72c5e0b35fd8" executionId="aa817787-8e2e-4879-b380-6d85fcd57b09" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4b317030-ad21-447b-854c-46147c89d10f" executionId="e83e19db-d54b-416f-985b-408500dd33ba" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bc2bac5e-9699-488d-9b40-0b940e4d03d5" executionId="a25ece71-5e51-4f39-89d2-32aea26cc4c9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="af723800-5f17-4ed3-b036-28c8bc2520fe" executionId="90d81232-28cc-4a63-87fb-13911d8c67ce" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e4f35113-d088-495b-831f-3da7aa1389c0" executionId="b7c6d284-3880-4e77-af6a-24b828c1705c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d2e43894-e279-43c3-b0db-0b0790338cf7" executionId="5bf7a078-dc43-45f6-9836-111642becf64" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c76f3337-1fc8-48a2-945a-c28370f52a39" executionId="feb498d7-8f6e-4e29-bf5b-71cd58a8c69d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="35772916-10ea-44c0-b20c-908c1aa908a1" executionId="0798d439-0001-4451-b259-8958a7ae9a6c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e1c90924-ca90-4e78-8cc8-d445fee572cc" executionId="43e10aab-a4b2-414f-b8a3-506a2f99a82f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="acf039b9-6306-4c95-a7ad-083bd3aac761" executionId="bdb3a96e-22d5-4c7a-9293-571da07d8353" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="eebd2798-8bce-4863-91c1-69a58102c906" executionId="1e979e9c-e3b4-4fc4-83c4-67e4fdedb6f2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fa762eba-cd24-4739-b1b4-2c4ae806aa3d" executionId="2afff0bf-cc53-4247-b48e-83bb369daf10" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2af23901-83e5-4c55-8938-7595a992b250" executionId="6e0175c2-7965-4c81-b873-e845c0b0508d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="88d74c16-a86a-4c80-b962-671c45fa95fe" executionId="eaf65d0c-289d-4205-abae-03349247c180" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="32ff846b-7027-4ab2-906f-005cbb66646c" executionId="7568816e-73cd-460f-b065-478d27a498fd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="600077d8-287f-43f8-bab3-9c39a369d3bf" executionId="18aaee40-61cd-497e-a03f-478e57bbb613" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8c912d5d-8001-4858-9447-79e94140d4a6" executionId="e4791608-77d9-4956-af8c-857578fe78e6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0c5d058e-c0d8-4c3d-a212-4a1a090f7e8b" executionId="071fec16-91a5-4ecc-8203-28c740349c65" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Список результатов" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="25" executed="25" passed="25" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>

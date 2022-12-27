@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Dg7+uQmyDmVNn9RGWRa7bhVPkf0gopP3EGL7+e9ufanUzyESu5A5SevAxwFuhUZG7rkSGBSzm+F0Kb1BPO6cfw==",
+  "dgSpecHash": "CzYmRW3Lkf11sdbfBY0gmg3FlbzR7p5Zc9+R6BDtRYZWl7G5JqaB2ZBwuLXsXPlCRt9UM/BdyEFGQDcTCuv0Bw==",
   "success": true,
   "projectFilePath": "D:\\kamnetanker\\Magistry\\3sem\\ProgrammArchitechture\\Labs\\miniature-octo-fiesta\\formula\\formula_tests\\formula_tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kamnetanker\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\kamnetanker\\.nuget\\packages\\coverlet.msbuild\\3.2.0\\coverlet.msbuild.3.2.0.nupkg.sha512",
     "C:\\Users\\kamnetanker\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
     "C:\\Users\\kamnetanker\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\kamnetanker\\.nuget\\packages\\microsoft.net.test.sdk\\17.1.0\\microsoft.net.test.sdk.17.1.0.nupkg.sha512",

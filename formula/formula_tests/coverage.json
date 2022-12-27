@@ -1,0 +1,55 @@
+{
+  "formula_proj.dll": {
+    "D:\\kamnetanker\\Magistry\\3sem\\ProgrammArchitechture\\Labs\\miniature-octo-fiesta\\formula\\formula_proj\\Program.cs": {
+      "formula_proj.App": {
+        "System.Int32 formula_proj.App::Main(System.String[])": {
+          "Lines": {
+            "4": 1,
+            "5": 1,
+            "6": 1,
+            "7": 1,
+            "8": 1,
+            "9": 1,
+            "10": 1,
+            "11": 1,
+            "12": 1,
+            "13": 1
+          },
+          "Branches": []
+        },
+        "System.Double formula_proj.App::F(System.Double)": {
+          "Lines": {
+            "15": 12,
+            "16": 12,
+            "17": 12
+          },
+          "Branches": []
+        },
+        "System.Double formula_proj.App::SqX(System.Double)": {
+          "Lines": {
+            "18": 18,
+            "19": 18,
+            "20": 18
+          },
+          "Branches": []
+        },
+        "System.Double formula_proj.App::cosX(System.Double)": {
+          "Lines": {
+            "21": 18,
+            "22": 18,
+            "23": 18
+          },
+          "Branches": []
+        },
+        "System.Double formula_proj.App::ExpoX(System.Double)": {
+          "Lines": {
+            "24": 18,
+            "25": 18,
+            "26": 18
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
