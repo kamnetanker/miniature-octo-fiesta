@@ -17,7 +17,7 @@ pipeline {
                 sh '''mv $( dotnet test --collect:"XPlat Code Coverage" -o TestResults ./formula/formula.sln | grep cobertura.xml ) ./formula/formula_tests/lastlog.cobertura.xml'''
             }
         }
-		stage('Build') {
+		stage('Publish') {
             steps {
                 publishCoverage adapters: [cobertura('./formula/formula_tests/lastlog.cobertura.xml')], checksName: '', sourceFileResolver: sourceFiles('NEVER_STORE')
             }
